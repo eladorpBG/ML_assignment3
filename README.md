@@ -5,7 +5,7 @@ This project implements a revised artificial neural network (ANN) from Chapter 1
 
 **GitHub Repository:** [https://github.com/eladorpBG/ML_assignment3.git](https://github.com/eladorpBG/ML_assignment3.git)
 
-## File List
+## Files List
 **ch11.ipynb** - Original code, evaluated using macro AUC.
 
 **revised_ch11.ipynb** - Revised code. Includes another hidden layer and different number of neurons in hidden each layer. Evaluated using macro AUC.
