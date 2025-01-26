@@ -9,3 +9,5 @@ This project implements a revised artificial neural network (ANN) from Chapter 1
 **ch11.ipynb** - Original code, evaluated using macro AUC.
 
 **revised_ch11.ipynb** - Revised code. Includes another hidden layer and different number of neurons in hidden each layer. Evaluated using macro AUC.
+
+**Keras_ch11.ipynb** - Same architecture as "revised_ch11", implemented in Keras. Evaluated using macro AUC.
